@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 A simple Tic-Tac-Toe game that I built in c++ to experiment with two-dimensional arrays. 
 The logic that follows the creation of this program is a system that continually checks if conditions are met. 
-Conditions in priority:
+Conditions with priority in this order from top to bottom:
 1) is there a winner?
 2) is the spot on the board chosen?
 3) Who's turn is it?
